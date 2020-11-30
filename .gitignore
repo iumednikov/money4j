@@ -163,3 +163,4 @@ $RECYCLE.BIN/
 src/test/java/com/codesityou/money4j/PlaygroundTest.java
 
 # End of https://www.gitignore.io/api/git,java,maven,eclipse,windows
+.vscode/
